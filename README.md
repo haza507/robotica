@@ -13,7 +13,7 @@
 | Lizmarie Loraine Camacho Vega | [Lizmarie82](https://github.com/Lizmarie82) | Navegación; Investigación con IA | *(completar)* |
 | Milena Giraldo Herrera | [mgiraldoh-debug](https://github.com/mgiraldoh-debug) | Investigación con IA | *(completar)* |
 | Fidel Antonio Pena Espinosa | [fpena1703-bit](https://github.com/fpena1703-bit) | Navegación | *(completar)* |
-| Madai Arelis Samudio Candanedo | [dachizu07-ux](https://github.com/dachizu07-ux) | Pregunta de principiante | *(completar)* |
+| Madai Arelis Samudio Candanedo | [dachizu07-ux](https://github.com/dachizu07-ux) | Pregunta de principiante | Revisión de recursos educativos desde la perspectiva de una persona principiante, para facilitar la comprensión de los contenidos |
 | Hazael Eliezer Moreno Vanegas | [haza507](https://github.com/haza507) | Navegación | *(completar)* |
 | Melvin Eugene Buford Bernal | [mbuford29](https://github.com/mbuford29) | Navegación | *(completar)* |
 | Katherine Gálvez López | [katherinegalvez047-stack](https://github.com/katherinegalvez047-stack) | Navegación | *(completar)* |
